@@ -1,2 +1,4 @@
 Hello this is my first time working with git commands
 heeyyyy good afternoon
+now its been evening 
+and im editing this file to check how things works...
